@@ -25,10 +25,12 @@ Links:
 ## Experience
 
 **Lead DevOps Engineer**
-    ~ Adapt Framework Solutions
+    ~ [Adapt Framework Solutions](https://www.adaptframework.solutions/)
     ~ Dec 2023 - May 2024 (6 months)
 
-I plan, create and manage our infrastructure and environment for developers, as well as advise CTO
+ADAPT framework is a developer environment for building secure data meshes.
+
+I plan, create from zero and manage our infrastructure and environment for developers, as well as advise CTO
 and dev team on distributed environments, proper architecture and interaction with cloud services. Also
 I help CEO with marketing and management of external freelancers as well as our accounts like aws,
 discord, jira and other services.
@@ -39,21 +41,23 @@ Tech stack: Github CI, Terraform, Docker, AWS (EC2, EKS, Nitro, KMS, S3)
 
 ---
 **Senior DevOps Engineer**
-    ~ Opsfleet
+    ~ [Opsfleet](https://www.opsfleet.com/)
     ~ Dec 2023 - Mar 2024 (4 months)
 
-Migrating services to the AWS from on-premise infrastructure
+Migrating services to the AWS from on-premise infrastructure.
 
 Tech stack: AWS, Terraform, Gitlab CI, Ansible
 
-(One-time project for an outstaffing company)
+(One-time project for a DevOps Services Agency)
 
 ---
 **Lead DevOps Engineer**
-    ~ Adapt Framework Solutions
+    ~ [Adapt Framework Solutions](https://www.adaptframework.solutions/)
     ~ May 2022 - Dec 2023 (1 year 8 months)
 
-I plan, create and manage our infrastructure and environment for developers, as well as advise CTO
+ADAPT framework is a developer environment for building secure data meshes.
+
+I plan, create from zero and manage our infrastructure and environment for developers, as well as advise CTO
 and dev team on distributed environments, proper architecture and interaction with cloud services. Also
 I help CEO with marketing and management of external freelancers as well as our accounts like aws,
 discord, jira and other services.
@@ -86,7 +90,7 @@ and many more ;)
 
 ---
 **Lead DevOps Engineer**
-    ~ ARTOX
+    ~ [Artox](https://artox.com/)
     ~ Feb 2018 - May 2021 (3 years 4 months)
 
 Lead DevOps engineer for a team of 2 devops and 20 developers with ~20 services and ~500 servers
@@ -155,7 +159,7 @@ Environment:
 
 ---
 **Software Engineer**
-    ~ Exadel
+    ~ [Exadel](https://exadel.com/)
     ~ Nov 2015 - Feb 2016 (4 months)
 
 To facilitate operations I develop automation with Ansible: scale infrastructure with Amazon EC2 and
@@ -171,10 +175,10 @@ Environment:
 
 ---
 **Software Engineer**
-    ~ Wargaming
+    ~ [Wargaming](https://na.wargaming.net/en)
     ~ Jul 2012 - Oct 2015 (3 years 4 months)
 
-Project: Online games
+Project: large-scale online games with millions of players, which has won four Golden Joystick Awards
 - World of Tanks
 - World of Warships
 - World of Tanks Blitz
@@ -232,3 +236,23 @@ sciences
 ## Notes
 
 * I'm living in Warsaw, Poland (UTC+1/2 timezone). You can work with me B2B through incubator (middleware company) or UoD/UoZ/UoP in Poland, and also through my individual entrepreneurship (IE) in Georgia (I don't have JDG in Poland yet).
+* I donate part of my salary to support the ukrainian and belarusian victims of f***ing dictators. [#StandWithBelarus](https://bysol.org/en/) [#StandWithUkraine](https://stand-with-ukraine.pp.ua/)
+
+## Work Examples
+
+* Test assignment for devops
+    - https://github.com/Friz-zy/devops-test
+
+* Terraform
+    - https://github.com/tldr-devops/aws-eks-terraform
+    - https://github.com/tldr-devops/infrastructure-example
+
+* Docker
+    - https://github.com/tldr-devops/startpack
+    - https://github.com/tldr-devops/k0s-in-docker
+
+* Ansible
+    - https://github.com/Friz-zy/ansible-roles
+
+* Nginx
+    - https://github.com/tldr-devops/nginx-common-configuration
