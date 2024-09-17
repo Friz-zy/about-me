@@ -18,7 +18,7 @@ Links:
 - I write Terraform, Terragrunt, Asible, Saltstack and other IaC setups
 - I solved few disasters in production with various K8S setups
 - I can do SQL and NoSQL HA setups, like Galera Mysql, Mongodb, Kafka, ZooKeeper, Clickhouse, Redis and so one
-- I did a lot of monitoring solutions with Prometheus\Victoriametrics, EFK, Zabbix and so one
+- I did a lot of monitoring solutions with Prometheus & Victoriametrics, EFK, Zabbix and so one
 - I have experience with KMS, Nitro Enclaves, Kata Containers and other security tech
 - I have 2 open source projects with more than 1k stars
 
@@ -67,7 +67,7 @@ Tech stack: Github CI, Terraform, Docker, AWS (EC2, EKS, Nitro, KMS, S3)
 ---
 **DevOps and Consultant**
     ~ Independent entrepreneur, Freelancer
-    ~ Apr 2016 - May 2022 (6 years 2 months)
+    ~ May 2021 - May 2022 (1 year)
 
 * Planning project architectures, environments, CI & CD pipelines, etc
 * Setup of cloud environments, bare metal servers, operating systems
@@ -76,7 +76,7 @@ Tech stack: Github CI, Terraform, Docker, AWS (EC2, EKS, Nitro, KMS, S3)
 * Implementation of local test environments with docker and docker-compose
 * Configuration and automation of services like:
     - cloud and apps architecture
-    - jenkins, gitlab CI\CD
+    - jenkins, gitlab CI & CD
     - automation with ansible and saltstack
     - various monitoring systems like zabbix, telegraf, etc
     - elasticsearch + logstash + kibana + beats
@@ -86,7 +86,7 @@ Tech stack: Github CI, Terraform, Docker, AWS (EC2, EKS, Nitro, KMS, S3)
     - redis replication with auto failover
     - load balancing with dns and haproxy
 
-and many more ;)
+(I was forced to move to another country and at that time did not have the energy to work full time)
 
 ---
 **Lead DevOps Engineer**
@@ -119,7 +119,7 @@ Development for environment
 
 Operation processes like
 - incident management
-- 12\7 duty clients support
+- 12x7 duty clients support
 - configuration and automation of servers and services
 
 Environment:
@@ -146,7 +146,7 @@ Development for environment
 
 Operation processes like
 - incident management
-- 12\7 duty clients support
+- 12x7 duty clients support
 - configuration and automation of servers and services
 
 Environment:
