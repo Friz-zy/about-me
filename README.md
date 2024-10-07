@@ -17,8 +17,8 @@ Links:
 - I have experience with Gitlab, Github, Jenkins, Argocd and Fluxcd CI & CD
 - I write Terraform, Terragrunt, Asible, Saltstack and other IaC setups
 - I solved few disasters in production with various K8S setups
-- I can do SQL and NoSQL HA setups, like Galera Mysql, Mongodb, Kafka, ZooKeeper, Clickhouse, Redis and so one
-- I did a lot of monitoring solutions with Prometheus & Victoriametrics, EFK, Zabbix and so one
+- I can do SQL and NoSQL HA setups, like Galera Mysql, Mongodb, Elasticsearch, Kafka, ZooKeeper, Clickhouse, Redis and so one
+- I did a lot of monitoring solutions with Prometheus & Victoriametrics, ELK & EFK, Zabbix and so one
 - I have experience with KMS, Nitro Enclaves, Kata Containers and other security tech
 - I have 2 open source projects with more than 1k stars
 
@@ -26,34 +26,7 @@ Links:
 
 **Lead DevOps Engineer**
     ~ [Adapt Framework Solutions](https://www.adaptframework.solutions/)
-    ~ Dec 2023 - May 2024 (6 months)
-
-ADAPT framework is a developer environment for building secure data meshes.
-
-I plan, create from zero and manage our infrastructure and environment for developers, as well as advise CTO
-and dev team on distributed environments, proper architecture and interaction with cloud services. Also
-I help CEO with marketing and management of external freelancers as well as our accounts like aws,
-discord, jira and other services.
-
-Tech stack: Github CI, Terraform, Docker, AWS (EC2, EKS, Nitro, KMS, S3)
-
-(I switched to part-time work due to financial difficulties at my startup)
-
----
-**Senior DevOps Engineer**
-    ~ [Opsfleet](https://www.opsfleet.com/)
-    ~ Dec 2023 - Mar 2024 (4 months)
-
-Migrating services to the AWS from on-premise infrastructure.
-
-Tech stack: AWS, Terraform, Gitlab CI, Ansible
-
-(One-time project for a DevOps Services Agency)
-
----
-**Lead DevOps Engineer**
-    ~ [Adapt Framework Solutions](https://www.adaptframework.solutions/)
-    ~ May 2022 - Dec 2023 (1 year 8 months)
+    ~ May 2022 - May 2024 (2 years 1 month)
 
 ADAPT framework is a developer environment for building secure data meshes.
 
@@ -68,6 +41,8 @@ Tech stack: Github CI, Terraform, Docker, AWS (EC2, EKS, Nitro, KMS, S3)
 **DevOps and Consultant**
     ~ Independent entrepreneur, Freelancer
     ~ May 2021 - May 2022 (1 year)
+
+(I was forced to move to another country and at that time I did not have the energy to work full time)
 
 * Planning project architectures, environments, CI & CD pipelines, etc
 * Setup of cloud environments, bare metal servers, operating systems
@@ -85,8 +60,6 @@ Tech stack: Github CI, Terraform, Docker, AWS (EC2, EKS, Nitro, KMS, S3)
     - mongodb cluster with shardes
     - redis replication with auto failover
     - load balancing with dns and haproxy
-
-(I was forced to move to another country and at that time did not have the energy to work full time)
 
 ---
 **Lead DevOps Engineer**
@@ -232,6 +205,10 @@ Faculty of Radiophysics and Computer Technologies
 - Development directions: embedded systems, networks, system programming, engineering, science
 - Science directions: higher mathematics, general and theoretical physics, information and computer
 sciences
+
+## Languages
+- English B2
+- Russian Native
 
 ## Notes
 
